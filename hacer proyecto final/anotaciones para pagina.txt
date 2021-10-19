@@ -1,10 +1,25 @@
-banco de imagenes
+¿Qué onda? estas serian mis fuentes de información.
+
+Hasta ahora, la barra de inicio está vinculada a la página de méxico, y la página de méxico está igual vinculada 
+(si hacen clicks las llevará al sitio siempre y tengan descargados los archivos). 
+Recomiendo que vean los videos antes o mientras analizan los códigos. 
+Los fondos de las páginas los hice yo, son provicionales por si gustan cambiar cualquier cosa ;)
+También si tienen alguna crítica o sugerencia aquí andamos :O
+
+El código aún no tiene el div de carousel de bootstrap pero es para ver que opinan y así.. (en caso de que no quieran 
+que la información se distribuya en otras pags, o cosas así
+
+Nos vemos!
+
+__banco de imagenes
 
 bandera chiquita de méxico : https://pixabay.com/es/vectors/m%c3%a9xico-bandera-mexicano-nacional-26989/
 bandera chiquita perú: https://pixabay.com/es/vectors/bandera-decoraci%c3%b3n-per%c3%ba-firmar-2024865/
 bandera chiquita argentina: https://pixabay.com/es/vectors/argentina-bandera-bandera-nacional-162229/
 bandera chiquita colombia: https://pixabay.com/es/vectors/argentina-bandera-bandera-nacional-162229/
 -----------------------------------------------------------
+
+VIDEOS DE REFERENCIAS
 ¿Cómo poner el fondo de pantalla?: https://www.youtube.com/watch?v=R86XKS8NMKk&t=156s
 ¿Cómo poner barra de menú?: https://www.youtube.com/watch?v=3mdQuS8VHKg
 
