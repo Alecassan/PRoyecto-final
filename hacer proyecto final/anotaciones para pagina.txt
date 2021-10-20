@@ -9,6 +9,11 @@ También si tienen alguna crítica o sugerencia aquí andamos :O
 El código aún no tiene el div de carousel de bootstrap pero es para ver que opinan y así.. (en caso de que no quieran 
 que la información se distribuya en otras pags, o cosas así
 
+ACTUALIZACION:
+He subido el codigo de carrusel a la carpeta, tambien he subido imagenes de prueba. 
+El código de carrousel no se ha puesto en el código principal, solo para probar cómo quedará el asunto.
+
+
 Nos vemos!
 
 __banco de imagenes
