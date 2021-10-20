@@ -27,5 +27,14 @@ bandera chiquita colombia: https://pixabay.com/es/vectors/argentina-bandera-band
 VIDEOS DE REFERENCIAS
 ¿Cómo poner el fondo de pantalla?: https://www.youtube.com/watch?v=R86XKS8NMKk&t=156s
 ¿Cómo poner barra de menú?: https://www.youtube.com/watch?v=3mdQuS8VHKg
+Analisis Carousel: https://www.youtube.com/watch?v=LVQtOmMR5As
+
+-----------------------------------------------------------
+
+Banco de imagenes ciudades
+Argentina: https://pixabay.com/es/photos/buenos-aires-argentina-obelisco-2437858/
+colombia: https://pixabay.com/es/photos/ciudad-arquitectura-urbano-bogot%c3%a1-4457801/
+Perú: https://pixabay.com/es/photos/plaza-arequipa-peru-catedral-5165633/
+México: https://pixabay.com/es/photos/guadalajara-mexico-jalisco-4562248/
 
 
